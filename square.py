@@ -1,2 +1,4 @@
 def squaring_num():
-    return "Hello!"
+    userNum = 3
+    userNumSquared = userNum*userNum 
+    print(userNumSquared, end=' ') 
